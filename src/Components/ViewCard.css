@@ -1,0 +1,24 @@
+.card_story {
+    background-color: #0C041E;
+    width: 100%;
+    height: 100vh;
+}
+
+.head_button button {
+    border-radius: 25px;
+    padding: 10px 25px;
+    border: none;
+    color: white;
+}
+
+.gradient_button {
+    background: linear-gradient(90deg, rgba(5, 27, 130, 1) 0%, rgba(0, 212, 255, 1) 100%);
+}
+
+.btn-1 {
+    background-color: #1AFF5A;
+}
+
+.btn-2 {
+    background-color: #FFBF1A;
+}
